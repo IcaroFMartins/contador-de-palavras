@@ -1,0 +1,3 @@
+Python é uma linguagem de programação muito popular.
+Python é usado em automação, análise de dados e desenvolvimento web.
+Aprender Python ajuda a criar projetos práticos.
